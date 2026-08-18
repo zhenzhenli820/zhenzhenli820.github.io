@@ -12,6 +12,14 @@ redirect_from:
 Selected research projects since joining industry (2022–present), spanning efficient foundation models, generative/agentic AI, and Physical AI / robot learning. See the full list on the [Publications](/publications/) page.
 
 <p float="left">
+  <img src="https://ar5iv.labs.arxiv.org/html/2509.14543/assets/figures/methodologyIllustration.png" width="300" align="left" style="margin-right: 2em"/>
+</p>
+<em>Catch Me If You Can? Not Yet: LLMs Still Struggle to Imitate the Implicit Writing Styles of Everyday Authors</em> (Findings of EMNLP 2025)
+<br/>
+Evaluates whether LLMs can imitate an individual writer's implicit style from few-shot examples, testing 40,000+ generations across 400+ real authors in news, email, forum, and blog domains. Finds LLMs do reasonably well in structured genres (news, email) but struggle in informal, nuanced writing (blogs, forums). With Prof. Jiawei Zhou (Stony Brook).
+<br/><br/>
+
+<p float="left">
   <img src="https://human2bots.github.io/static/images/system_overview.png" width="300" align="left" style="margin-right: 2em"/>
 </p>
 <em>Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining</em> (RSS 2025)
@@ -42,16 +50,6 @@ Learns a single, unified prompt-generation network shared across federated clien
 <br/>
 Distills knowledge from large foundation models into lightweight client models during federated training, improving performance on rare/underrepresented classes under heterogeneous (non-IID) client data, without increasing client-side inference cost.
 <br/><br/>
-
-<p float="left">
-  <img src="https://ar5iv.labs.arxiv.org/html/2509.14543/assets/figures/methodologyIllustration.png" width="300" align="left" style="margin-right: 2em"/>
-</p>
-<em>Catch Me If You Can? Not Yet: LLMs Still Struggle to Imitate the Implicit Writing Styles of Everyday Authors</em> (Findings of EMNLP 2025)
-<br/>
-Evaluates whether LLMs can imitate an individual writer's implicit style from few-shot examples, testing 40,000+ generations across 400+ real authors in news, email, forum, and blog domains. Finds LLMs do reasonably well in structured genres (news, email) but struggle in informal, nuanced writing (blogs, forums). With Prof. Jiawei Zhou (Stony Brook).
-<br/><br/>
-
-<span style="font-size:18pt;">**Earlier Research (Ph.D. & Postdoc)**</span>
 
 <p float="left">
   <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8.2em"/>
