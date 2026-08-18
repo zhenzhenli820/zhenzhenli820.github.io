@@ -16,4 +16,4 @@ My research interests span **efficient foundation models** (network pruning, mod
 
 <span style="font-size:18pt;">**Contact**</span>
 
-Email: zhenzhenli2020@gmail.com
+Email: zhenzhenl@nvidia.com

@@ -82,10 +82,10 @@ author:
   name             : "Zhenzhen Li"
   avatar           : "me.jpg"
   bio              : "Research Architect and Scientist, NVIDIA"
-  location         : ""
-  employer         : https://www.nvidia.com/
+  location         :
+  employer         : "NVIDIA"
   googlescholar    : "https://scholar.google.com/citations?user=6LYI6uUAAAAJ&hl=en"
-  email            : "zhenzhenli2020@gmail.com"
+  email            : "zhenzhenl@nvidia.com"
   uri              :
   bitbucket        :
   codepen          :
