@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Li Zhenzhen"
+title                    : "Zhenzhen Li"
 title_separator          : "-"
-name                     : &name "Li Zhenzhen"
-description              : &description "personal description" # changed to be "PhD student at HKUST"??
-url                      : #: https://gitipanda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zhenzhen Li"
+description              : &description "Research Scientist working on AI, Physical AI / robotics, and agentic AI systems"
+url                      : "https://zhenzhenli820.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : #: "gitipanda.github.io"
+repository               : "zhenzhenli820/zhenzhenli820.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Li Zhenzhen"
-  avatar           : "profile2.jpg"
-  bio              : "CM+X Postdoc"
-  location         : "Pasadena, California"
-  employer         : http://cmx.caltech.edu/
-  googlescholar    : # I don't have yet"http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Zhenzhen Li"
+  avatar           : "home.jpg"
+  bio              : "Research Architect and Scientist, NVIDIA"
+  location         : ""
+  employer         : https://www.nvidia.com/
+  googlescholar    : "https://scholar.google.com/citations?user=6LYI6uUAAAAJ&hl=en"
+  email            : "zhenzhenli2020@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gitipanda"
+  github           : "zhenzhenli820"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :

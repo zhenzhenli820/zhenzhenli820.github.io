@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size:18pt;">**李珍珍(Li, Zhenzhen)**</span>
+<span style="font-size:18pt;">**Zhenzhen Li (李珍珍)**</span>
 
-I'm currently a CMX postdoc in the Computational and Mathematical Science Department of California Institute of Technology, working with Prof. Thomas Yizhao Hou. I obtained my Ph.D. degree from Hong Kong University of Science and Technology, supervised by Prof. ‪Jian-Feng Cai‬. More details can be found in my [CV](https://gitipanda.github.io/cv/).
+I'm a Research Architect and Scientist at NVIDIA (since Jan 2026), working on AI systems spanning foundation models, agentic AI, and Physical AI / robotics. Before NVIDIA, I was an AI Research Scientist at Bosch Research and Technology Center (2022–2026), where I led projects combining AI with physics-based modeling, and built multimodal GenAI/RAG copilots for industrial troubleshooting. I was a postdoctoral fellow in the Computing and Mathematical Sciences department at Caltech, working with Prof. Thomas Yizhao Hou, and received my Ph.D. in Applied Mathematics from the Hong Kong University of Science and Technology, advised by Prof. Jian-Feng Cai.
 
-I'm broadly interested in machine learning problems. My research interest lies in efficient and provable algorithms for industrial and mathematical problems, low-rank and sparse structured matrix related problems, non-convex optimization, manifold optimization, feature learning, etc.
-
+My research interests span **efficient foundation models** (network pruning, model compression, distributed/federated training), **generative and agentic AI** (multimodal reasoning, RAG, LLM personalization), and **Physical AI / robot learning** (cross-embodiment and quadrupedal manipulation), grounded in a background in nonconvex and manifold optimization. More details can be found in my [CV](/cv/) and [publications](/publications/), or on my [Google Scholar profile](https://scholar.google.com/citations?user=6LYI6uUAAAAJ&hl=en).
 
 <span style="font-size:18pt;">**Contact**</span>
 
-Email: zhenzhen@caltech.edu
-
-Address: Department of Computing and Mathematical Sciences, California Institute of Technology, 1200 E. California Blvd, Pasadena, California, US.
+Email: zhenzhenli2020@gmail.com

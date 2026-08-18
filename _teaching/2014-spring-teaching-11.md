@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 11"
+title: "Teaching Assistant, Calculus & Linear Algebra"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 11, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate courses"
+permalink: /teaching/2016-2018-hkust-ta-calculus-linalg
+venue: "Hong Kong University of Science and Technology, Department of Mathematics"
+date: 2016-01-01
+location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching assistant for Math 1012 (Calculus IA), Math 1013 (Calculus IB), and Math 2121 (Linear Algebra) during my Ph.D. Received the Din-Yu Hsieh "Best Teaching Assistant" Award in 2016, 2017, and 2018.

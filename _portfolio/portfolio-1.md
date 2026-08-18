@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "AI Troubleshooting Copilot"
+excerpt: "Multimodal RAG copilot for industrial troubleshooting, informing a €30M Bosch–Microsoft partnership.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Led an industrial/research project at Bosch, partnering with global business units (China, Germany, U.S.) across appliances/HVAC. Prototyped a multimodal RAG copilot combining manuals, error codes, images/video, and hotline/maintenance data for step-by-step troubleshooting reasoning. The validated use cases informed and supported a €30M partnership with Microsoft to drive AI-based after-sales efficiency and cost savings.
