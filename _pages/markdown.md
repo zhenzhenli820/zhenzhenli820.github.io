@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Selected research projects since joining industry (2022–present), spanning efficient foundation models, generative/agentic AI, and Physical AI / robot learning. See the full list on the [Publications](/publications/) page.
+Selected research projects spanning efficient foundation models, generative/agentic AI, and Physical AI / robot learning. See the full list on the [Publications](/publications/) page.
 
 <p float="left">
   <img src="https://ar5iv.labs.arxiv.org/html/2509.14543/assets/figures/methodologyIllustration.png" width="300" align="left" style="margin-right: 2em"/>
