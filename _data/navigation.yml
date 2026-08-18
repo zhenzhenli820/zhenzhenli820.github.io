@@ -1,0 +1,19 @@
+# main links links
+main:
+
+  - title: "Research" 
+    url: /markdown/
+
+
+  #- title: "Research"
+  #  url: /publications/
+    
+  #- title: "Teaching"
+  #  url: /teaching/   
+  
+  - title: "CV"
+    url: /cv/
+    
+  #- title: "My Posts"
+  #  url: /posts/
+
