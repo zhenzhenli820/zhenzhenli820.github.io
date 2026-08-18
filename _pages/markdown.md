@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: "Research"
 permalink: /markdown/
 author_profile: true
 redirect_from:
@@ -9,124 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-<span style="font-size:18pt;">**Publications**</span>
-* Fast Global Convergence in Random Sensing Problems for Low-rank Matrix with Random Initialization (working paper). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, 2021.
-
-* Robust low-rank matrix recovery by Riemannian subgradient method (working paper). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, 2021.
-
-* [<span style="color:#3da2ce">*Asymptotic escape of spurious fixed points on the low-rank matrix manifold*</span>](https://arxiv.org/abs/2107.09207). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, submitted to Communications of the AMS, 2021.
-
-* [<span style="color:#3da2ce">*Fast Global Convergence for Low-rank Matrix Recovery via Riemannian Gradient Descent with Random Initialization*</span>](https://arxiv.org/abs/2012.15467). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, submitted 2021.
-
-* [<span style="color:#3da2ce">*Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization*</span>](https://epubs.siam.org/doi/abs/10.1137/19M129437X?mobileUi=0&). Thomas Y. Hou, Zhenzhen Li, Ziyun Zhang, SIAM Journal on Mathematics of Data Science, 2020, 2(3): 840-871.
-
-* Nonconvex Optimization for Low-rank Matrix Related Problems. Zhenzhen Li, Ph.D. Thesis, Hong Kong University of Science and Technology, 2020.
-
-*  [<span style="color:#3da2ce">*Towards the Optimal Construction of a Loss Function without Spurious Local Minima for Solving Quadratic Equations*</span>](https://ieeexplore.ieee.org/document/8918236). Zhenzhen Li, Jian-feng Cai, Ke Wei, IEEE Transactions on Information Theory, 66(5): 3242--3260, 2020.
-
-<span style="font-size:18pt;">**Projects**</span>
+Selected research projects since joining industry (2022–present), spanning efficient foundation models, generative/agentic AI, and Physical AI / robot learning. See the full list on the [Publications](/publications/) page.
 
 <p float="left">
-  <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8.2em"/>
-</p> 
-<em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> 
-<br/>
-In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA problem. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method. The images are examples for video background substraction.
-<br/><br/>
-
-
-<p float="left">
-  <img src="/images/es1.png" width="200" align="left" style="margin-right: 1em"/>  
-  <img src="/images/es2.png" width="200" align="left" style="margin-right: 2em"/> 
+  <img src="https://human2bots.github.io/static/images/system_overview.png" width="300" align="left" style="margin-right: 2em"/>
 </p>
-<em>Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization.</em>
+<em>Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining</em> (RSS 2025)
 <br/>
-In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
+A cross-embodiment imitation-learning pipeline for the LocoMan quadruped: pretrains a Modularized Cross-Embodiment Transformer on cheap human demonstrations collected via an XR headset, then fine-tunes on limited robot teleoperation data. Achieves 41.9% overall and 79.7% out-of-distribution success-rate improvements over baselines, matching baseline performance using only half the robot data. With Prof. Ding Zhao (CMU).
 <br/><br/>
 
 <p float="left">
-  <img src="/images/dn1.jpg" width="200" align="left" style="margin-right: 1em"/>  
-  <img src="/images/dn2.jpg" width="200" align="left" style="margin-right: 2em"/> 
+  <img src="https://raw.githubusercontent.com/xidongwu/AutoTrainOnce/main/overview/ATO_figs.png" width="300" align="left" style="margin-right: 2em"/>
 </p>
-<em>Real-time noise level detection and denoising.</em>
+<em>Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch</em> (CVPR 2024)
 <br/>
-In this project, we develop noise level detection and establish a real-time videos denoising for Wechat video group. We use wavelet features and data-driven dictionary learning methods. Our package meets the industrial standard that can process a single frame within 1/250s and with satisfied video quality.
+Jointly trains a target model and a controller network from scratch, where the controller generates masks to guide pruning — removing the need for pretraining, fine-tuning, or hand-designed pruning schedules. Achieves state-of-the-art compression/accuracy trade-offs on ResNet/MobileNet across CIFAR-10/100 and ImageNet, with theoretical convergence guarantees.
 <br/><br/>
-
 
 <p float="left">
-  <img src="/images/return.png" width="300" align="left" style="margin-right: 8.5em"/>  
+  <img src="https://raw.githubusercontent.com/boschresearch/FedTPG/main/images/train_overview.png" width="300" align="left" style="margin-right: 2em"/>
 </p>
-<br/><br/>
-<em>Quantitative modeling in trading future contracts</em>
+<em>Federated Text-Driven Prompt Generation for Vision-Language Models (FedTPG)</em> (ICLR 2024)
 <br/>
-In this project, I developed a trading strategy which has robust return in real trading. I'm also playing algorithmic trading robots for interests.
+Learns a single, unified prompt-generation network shared across federated clients, conditioned on task-related text so prompts stay context-aware. Generalizes better to unseen classes and unseen datasets than prior federated prompt-learning methods, across nine image classification benchmarks.
 <br/><br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!---
 <p float="left">
-  <img src="/images/es1.png" width="150" align="left" style="margin-right: 1em"/>  
-  <img src="/images/es2.png" width="150" style="float:left; margin-right: 2em;"/> 
+  <img src="https://ar5iv.labs.arxiv.org/html/2311.08479/assets/images/sota.png" width="300" align="left" style="margin-right: 2em"/>
 </p>
-<em>Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization.</em>
-In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
-<br />
-<img src="/images/es2.png" align="left" width="200" style="margin-right: 2em"/> 
-[image](/es1.png){: style="float: left"; margin-right: 2em; height="10%" width="10%"}
-![](/images/es1.png){: height="100" width="100"} ![](/images/es2.png){: style="float: left"; margin-right: 2em; height="100" width="100"} Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization. In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
-
-
-
-<div class="row">
-  <div class="column"><p float="left">
-  <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8em"/>
-</p> </div>
-  <div class="column"> <em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> 
+<em>Leveraging Foundation Models to Improve Lightweight Clients in Federated Learning</em> (NeurIPS Workshop FL@FM 2023)
 <br/>
-In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA problem. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method.</div>
-</div>
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-<TABLE border="0" width="100%">
-	<tr>
-		<td><p float="left">
-  			<img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8em"/>
-			</p> 
-		</td>
-		<td><em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> 
-		<br/>In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA problem. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method.
-		</td>
-	</tr>
-	<tr>
-		<th>Oranges</th>
-		<td>295 ui</td>
-	</tr>
-	<tr>
-		<th>Bananas</th>
-		<td>76 ui</td>
-	</tr>
-</TABLE>
+Distills knowledge from large foundation models into lightweight client models during federated training, improving performance on rare/underrepresented classes under heterogeneous (non-IID) client data, without increasing client-side inference cost.
+<br/><br/>
 
--->
+<p float="left">
+  <img src="https://ar5iv.labs.arxiv.org/html/2509.14543/assets/figures/methodologyIllustration.png" width="300" align="left" style="margin-right: 2em"/>
+</p>
+<em>Catch Me If You Can? Not Yet: LLMs Still Struggle to Imitate the Implicit Writing Styles of Everyday Authors</em> (Findings of EMNLP 2025)
+<br/>
+Evaluates whether LLMs can imitate an individual writer's implicit style from few-shot examples, testing 40,000+ generations across 400+ real authors in news, email, forum, and blog domains. Finds LLMs do reasonably well in structured genres (news, email) but struggle in informal, nuanced writing (blogs, forums). With Prof. Jiawei Zhou (Stony Brook).
+<br/><br/>

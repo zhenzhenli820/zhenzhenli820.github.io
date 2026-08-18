@@ -2,11 +2,14 @@
 title: "Leveraging Foundation Models to Improve Lightweight Clients in Federated Learning"
 collection: publications
 permalink: /publications/2023-neurips-foundation-fl
-excerpt: 'Shows how foundation model knowledge can be distilled to improve the performance of lightweight, resource-constrained clients in federated learning systems.'
+excerpt: 'Distills knowledge from large foundation models into lightweight client models during federated training, improving performance on rare/underrepresented classes under heterogeneous (non-IID) client data without increasing client-side inference cost.'
 date: 2023-01-01
-venue: 'Conference on Neural Information Processing Systems (NeurIPS)'
-citation: 'Zhenzhen Li, et al.'
+venue: 'NeurIPS Workshop on Federated Learning in the Age of Foundation Models (FL@FM-NeurIPS 2023)'
+citation: 'Xidong Wu, Wan-Yi Lin, Devin Willmott, Filipe Condessa, Yufei Huang, Zhenzhen Li, Madan Ravi Ganesh.'
+paperurl: 'https://arxiv.org/abs/2311.08479'
 ---
 
-## Google Scholar
-[View on Google Scholar](https://scholar.google.com/citations?user=6LYI6uUAAAAJ&hl=en)
+[[arXiv]](https://arxiv.org/abs/2311.08479)
+
+## Abstract
+Distills knowledge from large foundation models into lightweight client models during federated training, boosting performance on rare/underrepresented classes without increasing client-side inference cost. Shows consistent gains under heterogeneous (non-IID) client data, evaluated on CIFAR-10 with multiple foundation-model backbones.
