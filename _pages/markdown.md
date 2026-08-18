@@ -50,3 +50,42 @@ Distills knowledge from large foundation models into lightweight client models d
 <br/>
 Evaluates whether LLMs can imitate an individual writer's implicit style from few-shot examples, testing 40,000+ generations across 400+ real authors in news, email, forum, and blog domains. Finds LLMs do reasonably well in structured genres (news, email) but struggle in informal, nuanced writing (blogs, forums). With Prof. Jiawei Zhou (Stony Brook).
 <br/><br/>
+
+<span style="font-size:18pt;">**Earlier Research (Ph.D. & Postdoc)**</span>
+
+<p float="left">
+  <img src="/images/rPCA.png" width="300" align="left" style="margin-right: 8.2em"/>
+</p> 
+<em>Robust low-rank matrix recovery by Riemannian subgradient method.</em> 
+<br/>
+In this project, we explore theoretical guarantee for Riemannian subgradient descent method in solving the robust PCA problem. The numerical experiments show that our method is 20% faster than prior methods such as:  AccAltProj, AltProj and GD based method. The images are examples for video background substraction.
+<br/><br/>
+
+
+<p float="left">
+  <img src="/images/es1.png" width="200" align="left" style="margin-right: 1em"/>  
+  <img src="/images/es2.png" width="200" align="left" style="margin-right: 2em"/> 
+</p>
+<em>Analysis of Asymptotic Escape of Strict Saddle Sets in Manifold Optimization.</em>
+<br/>
+In this project, we explore how Riemannian gradient descent method will escape strict saddle sets asymptotically, and converge to local minimizers and shows examples in phase retrieval and variational eigen problems.
+<br/><br/>
+
+<p float="left">
+  <img src="/images/dn1.jpg" width="200" align="left" style="margin-right: 1em"/>  
+  <img src="/images/dn2.jpg" width="200" align="left" style="margin-right: 2em"/> 
+</p>
+<em>Real-time noise level detection and denoising.</em>
+<br/>
+In this project, we develop noise level detection and establish a real-time videos denoising for Wechat video group. We use wavelet features and data-driven dictionary learning methods. Our package meets the industrial standard that can process a single frame within 1/250s and with satisfied video quality.
+<br/><br/>
+
+
+<p float="left">
+  <img src="/images/return.png" width="300" align="left" style="margin-right: 8.5em"/>  
+</p>
+<br/><br/>
+<em>Quantitative modeling in trading future contracts</em>
+<br/>
+In this project, I developed a trading strategy which has robust return in real trading. I'm also playing algorithmic trading robots for interests.
+<br/><br/>
