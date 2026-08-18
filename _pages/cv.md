@@ -25,7 +25,7 @@ redirect_from:
 **NVIDIA — Research Architect and Scientist** | Jan 2026 – Present
 * Research on foundation models, agentic AI, and Physical AI / robotics systems.
 
-**Bosch Research and Technology Center — AI Research Scientist** | 2022 – Jan 2026
+**Bosch Research and Technology Center — AI Research Scientist** | 2022 – 2025
 *High-Impact Technology Project – AI + Physics for Sensor Cost Reduction*
 * Initiated and led hybrid AI+Physics surrogate modeling to cut reliance on costly sensors in appliances.
 * Developed a CFD-accelerated Neural Operator framework for systematic sensor optimization, enabling cost reduction while maintaining reliability.
